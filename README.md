@@ -15,7 +15,7 @@ FridgePal is a smart fridge inventory management app built with **React** and **
 
 - **Frontend:** React + Vite + Tailwind CSS
 - **Backend:** FastAPI
-- **Database:**Appwrite
+- **Database:** Appwrite
 - **Deployment:** Render
 
 
